@@ -22,8 +22,8 @@ author: Mohammad Hosami
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   Linkedin: "https://www.linkedin.com/in/mohammad-hosami-28758839"
 
 ################
