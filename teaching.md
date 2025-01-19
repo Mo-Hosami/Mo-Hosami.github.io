@@ -10,7 +10,7 @@ subtitle:
 - #### Online Tutor ----------------------------------------------------------------- 2023 –Present
   
 - #### Course Instructor 	----------------------------------------------------------- 2022 – 2024
-  FaraDars (the greatest online education and e-learning platform in Iran)
+  **_FaraDars_** (the greatest online education and e-learning platform in Iran).
   I have created four online courses on FaraDars (In Persian)
     - **[Numerical Analysis I](https://faradars.org/courses/numerical-analysis-part-i-fvmth129)**
     - **[Numerical Analysis II](https://faradars.org/courses/basics-of-numerical-analysis-second-part-fvmth132)**
@@ -19,7 +19,7 @@ subtitle:
 
 
 - #### Sessional Lecturer ----------------------------------------------------------- 2017 – 2021
-  University of Tehran - Fouman Faculty of Engineering, Fouman, Iran
+  **_University of Tehran - Fouman Faculty of Engineering, Fouman, Iran_**
     - **Introduction to Programming (C++, Matlab)**		(_Spring 2017, Fall 2017, Fall 2018, Spring 2019, Fall 2019_)
     - **Advance Programming (C++)**										(_Spring 2018, Spring 2019, Fall 2019, Spring 2020, Spring 2021, Fall 2021_)
     - **Algorithm Design**												 	  (_Spring 2017, Spring 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021_)
@@ -29,7 +29,7 @@ subtitle:
 
 
 - #### Sessional Lecturer ----------------------------------------------------------- 2012 – 2021
-  University of Guilan, Rasht, Iran
+  **_University of Guilan, Rasht, Iran_**
   - **Numerical Computations** 			            (_Fall 2012, Spring 2016_)
   - **Introduction to Computer Programming** 	  (_Spring 2015_)
   - **Advanced Programming**		                (_Fall 2014_)
