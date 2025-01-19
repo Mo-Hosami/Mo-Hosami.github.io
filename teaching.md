@@ -22,10 +22,10 @@ subtitle:
   University of Tehran - Fouman Faculty of Engineering, Fouman, Iran
     - **Introduction to Programming (C++, Matlab)**		(_Spring 2017, Fall 2017, Fall 2018, Spring 2019, Fall 2019_)
     - **Advance Programming (C++)**										(_Spring 2018, Spring 2019, Fall 2019, Spring 2020, Spring 2021, Fall 2021_)
-  	- **Algorithm Design**												 	  (_Spring 2017, Spring 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021_)
-  	- **Data Structures**													  	(_Fall 2017, Fall 2018, Fall 2019, Fall 2020, Fall 2021_)
-  	- **Ordinary Differential Equations** 						(_Spring 2021_)
-  	- **Numerical Computations** 											(_Spring 2017_)
+    - **Algorithm Design**												 	  (_Spring 2017, Spring 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021_)
+    - **Data Structures**													  	(_Fall 2017, Fall 2018, Fall 2019, Fall 2020, Fall 2021_)
+    - **Ordinary Differential Equations** 						(_Spring 2021_)
+    - **Numerical Computations** 											(_Spring 2017_)  	
 
 
 - #### Sessional Lecturer ----------------------------------------------------------- 2012 – 2021
