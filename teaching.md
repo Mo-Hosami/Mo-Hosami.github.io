@@ -7,10 +7,10 @@ subtitle:
 
 ### My Teaching Experience
 
-###### Online Tutor 											    2023 –Present
+###### Online Tutor 											2023 –Present
 ###### Course Instructor 								  		2022 – 2024
-    FaraDars (the greatest online education and e-learning platform in Iran)
-    I have created four online courses on FaraDars (In Persian).
+FaraDars (the greatest online education and e-learning platform in Iran)
+I have created four online courses on FaraDars (In Persian).
       - [Numerical Analysis I](https://faradars.org/courses/numerical-analysis-part-i-fvmth129)
 		  - [Numerical Analysis II](https://faradars.org/courses/basics-of-numerical-analysis-second-part-fvmth132)
 		  - [Autograph 5 to visualize mathematics in 2D and 3D](https://faradars.org/courses/drawing-mathematical-shapes-and-graphs-with-autograph-fvmth331)
