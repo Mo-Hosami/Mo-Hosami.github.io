@@ -5,7 +5,6 @@ subtitle:
 ---
 
 
-### My story
 
 My name is Mohammad Hosami. In 2017, I received my PhD in Applied Mathematics, Numerical Analysis from [the University of Guilan, Iran](https://english.guilan.ac.ir/). For nearly a decade, from 2013 to 2022, I worked as a Mathematics and Computer Science lecturer at [the University of Guilan](https://english.guilan.ac.ir/) and [Fouman Faculty of Engineering- University of Tehran](https://ffeng.ut.ac.ir/en/). From 2022 to 2024, I created four online courses on [FaraDars](https://faradars.org/) - the largest online course platform in Iran. Also, I work as an online tutor for mathematics and programming.
 
