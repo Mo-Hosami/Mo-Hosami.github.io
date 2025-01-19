@@ -27,8 +27,8 @@ subtitle:
 
 - #### Sessional Lecturer ----------------------------------------------------------- 2012 – 2021
   University of Guilan, Rasht, Iran
-  **- Numerical Computations** 			            (_Fall 2012, Spring 2016_)
-  **- Introduction to Computer Programming** 	  (_Spring 2015_)
-  **- Advanced Programming**		                (_Fall 2014_)
-  **- Calculus 1** 					                    (_2012 to 2021_)
-  **- Calculus 2** 					                    (_2012 to 2021_)
+  - **Numerical Computations** 			            (_Fall 2012, Spring 2016_)
+  - **Introduction to Computer Programming** 	  (_Spring 2015_)
+  - **Advanced Programming**		                (_Fall 2014_)
+  - **Calculus 1** 					                    (_2012 to 2021_)
+  - **Calculus 2** 					                    (_2012 to 2021_)
