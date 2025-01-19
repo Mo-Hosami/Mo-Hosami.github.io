@@ -16,5 +16,7 @@ subtitle:
     University of Kurdistan, Sanandaj, Iran
 
 {: .box-note}
-**BSc in Applied Mathematics ---------------------------------------- (2000 – 2005)**
+**BSc in Applied Mathematics ------------------------------------------ (2000 – 2005)**
     University of Guilan, Rasht, Iran
+
+{: .box-note}
