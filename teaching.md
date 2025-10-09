@@ -10,7 +10,7 @@ subtitle:
 
 
 - #### Online Tutor ----------------------------------------------------------------- 2023 –Present
-
+  -**Calculus, Numerical Computation, Linear Algebra, Programming (C++, MATLAB, Maple), ODEs**
   
 - #### Course Instructor 	----------------------------------------------------------- 2022 – 2024
   **_FaraDars_** (the greatest online education and e-learning platform in Iran).
